@@ -1,0 +1,23 @@
+{
+  "Dynamics": "",
+  "Preamp": "",
+  "Threshold": "",
+  "Shape": "",
+  "Filter 1 Type": "",
+  "Filter 1 Cutoff": "",
+  "Filter 1 Reso/Bandwidth": "",
+  "Filter 1 Volume": "",
+  "Filter 2 Type": "",
+  "Filter 2 Cutoff": "",
+  "Filter 2 Reso/Bandwidth": "",
+  "Filter 2 Volume": "",
+  "Filter 3 Type": "",
+  "Filter 3 Cutoff": "",
+  "Filter 3 Reso/Bandwidth": "",
+  "Filter 3 Volume": "",
+  "Distortion Function": "",
+  "Signal Routing": "",
+  "Limiter": "",
+  "FX": "",
+  "Output Volume": ""
+}
