@@ -1,0 +1,23 @@
+{
+  "Bypass": "",
+  "InputGain": "",
+  "OutputGain": "",
+  "Mix": "",
+  "InOutMode": "",
+  "Frequency1": "",
+  "Resonance1": "",
+  "Gain1": "",
+  "Filter1Shape": "",
+  "Filter1Order": "",
+  "Frequency2": "",
+  "Resonance2": "",
+  "Gain2": "",
+  "Filter2Shape": "",
+  "Filter2Order": "",
+  "FilterLink": "",
+  "FilterRouting": "",
+  "ModulationDepth": "",
+  "Trigger": "",
+  "Tempo": "",
+  "LFO Rate": ""
+}
